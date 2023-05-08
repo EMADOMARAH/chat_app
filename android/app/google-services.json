@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754997803054",
+    "project_id": "chatapp-6b8a8",
+    "storage_bucket": "chatapp-6b8a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754997803054:android:e2534bca35fb77d7f747bf",
+        "android_client_info": {
+          "package_name": "com.emadomarah.firebase.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754997803054-92tcku5nbcmn4n2vp2r9af44pje32c2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbquUx-f9i-jNwHiU2njuSnzDZwlw6JhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754997803054-92tcku5nbcmn4n2vp2r9af44pje32c2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
